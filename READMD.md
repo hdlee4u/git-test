@@ -1,6 +1,6 @@
 # Git Tutorial
-
-## version 1
+## version 3
+## readme-edit-v3
 
 ### date : as of 5th Aug.
 
